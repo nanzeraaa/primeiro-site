@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(0, 130, 252); color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    text-align: left;
+}
+div {
+    margin-bottom: 18px;
+}
+
+h3 {
+    text-align: left;
+}
+ol {
+    text-align: left;
+}
+p {
+    text-align: justify;
+}
